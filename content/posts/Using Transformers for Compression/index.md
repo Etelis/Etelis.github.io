@@ -18,7 +18,7 @@ categories: ["Compression"]
 ## Intro: Why I'm Hooked on Compression
 So, I've been nerding out about data compression for a while now. Ever thought about why a high-quality movie doesn't eat up your entire hard drive? Take an uncompressed 1080p video that needs around 1.5 GB for just a minute. A two-hour movie would take up a whopping 300GB! But compress it with H.264, and you're down to around 150 MB per minute. Mind-blowing, right?
 
-Recently, I stumbled upon a Google DeepMind paper that talks about using Transformers (yes, the machine learning models, not the robots) for compression. It got me super excited, and I decided to write this blog to share what I learned!
+Recently, I stumbled upon a Google DeepMind paper that talks about using Transformers for compression. and I decided to write this blog to share what I learned
 
 ## What's the Deal with Data Compression?
 Before we dive deep, let's break down what data compression and encoding actually mean.
